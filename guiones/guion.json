@@ -1,0 +1,56 @@
+{   "audio":"audios/audio.mp3",
+    "modelo":"modelos/orfeo.glb",
+    "fondo":"rgb(0,0,0)",
+    "data" :
+        [
+           {
+                "tiempo":"00:00",
+                "duracion":2000,
+                "camara":[2.95,7.81,2.17],
+                "target":[1.32,2.69,1.48],
+                "nombre":"salida inframundo"
+           },
+           {
+               "tiempo":"00:05",
+               "duracion":2000,
+               "camara":[1.9,6.17,1.63],
+               "target":[80,0,141],
+               "nombre":"vista dos"
+          },
+          {
+               "tiempo":"00:15",
+               "duracion":2000,
+               "camara":[0.39,5.62,1.19],
+               "target":[65.5,0,136],
+               "nombre":"vista tres"
+          },
+          {
+               "tiempo":"00:25",
+               "duracion":2000,
+               "camara":[-1.40,4.58,1.24],
+               "target":[74,0,178],
+               "nombre":"vista cuatro"
+          },
+          {
+               "tiempo":"00:30",
+               "duracion":2000,
+               "camara":[-1.96,3.11,0.95],
+               "target":[61,0,198],
+               "nombre":"vista cinco"
+          },
+          {
+               "tiempo":"00:40",
+               "duracion":2000,
+               "camara":[-1.9,2.8,1.3],
+               "target":[94,0,379],
+               "nombre":"euridice humo"
+          },
+          {
+               "tiempo":"00:50",
+               "duracion":2000,
+               "camara":[-1.9,2.17,1.3],
+               "target":[94,0,379],
+               "nombre":"euridice humo2"
+          }
+      ]
+}
