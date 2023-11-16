@@ -13,43 +13,43 @@
            {
                "tiempo":"00:05",
                "duracion":2000,
-               "camara":[1.9,6.17,1.63],
-               "target":[80,0,141],
+               "camara":"Camara2",
+               "target":"Target2",
                "nombre":"vista dos"
           },
           {
                "tiempo":"00:15",
                "duracion":2000,
-               "camara":[0.39,5.62,1.19],
-               "target":[65.5,0,136],
+               "camara":"Camara3",
+               "target":"Target3",
                "nombre":"vista tres"
           },
           {
-               "tiempo":"00:25",
+               "tiempo":"00:28",
                "duracion":2000,
-               "camara":[-1.40,4.58,1.24],
-               "target":[74,0,178],
+               "camara":"Camara4",
+               "target":"Target4",
                "nombre":"vista cuatro"
           },
           {
-               "tiempo":"00:30",
+               "tiempo":"00:35",
                "duracion":2000,
-               "camara":[-1.96,3.11,0.95],
-               "target":[61,0,198],
+               "camara":"Camara5",
+               "target":"Target5",
                "nombre":"vista cinco"
           },
           {
-               "tiempo":"00:40",
+               "tiempo":"00:46",
                "duracion":2000,
-               "camara":[-1.9,2.8,1.3],
-               "target":[94,0,379],
+               "camara":"Camara6",
+               "target":"Target6",
                "nombre":"euridice humo"
           },
           {
-               "tiempo":"00:50",
+               "tiempo":"00:53",
                "duracion":2000,
-               "camara":[-1.9,2.17,1.3],
-               "target":[94,0,379],
+               "camara":"Camara7",
+               "target":"Target7",
                "nombre":"euridice humo2"
           }
       ]
