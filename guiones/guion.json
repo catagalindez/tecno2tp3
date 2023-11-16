@@ -1,4 +1,4 @@
-{   "audio":"audios/Grabacion.m4a",
+{   "audio":"audios/orfeo.mp3",
     "modelo":"modelos/orfeo.glb",
     "fondo":"rgb(0,0,0)",
     "data" :
@@ -6,50 +6,78 @@
            {
                 "tiempo":"00:00",
                 "duracion":2000,
-                "camara":"Camara1",
+                "camara":"Camara0",
                 "target":"Target1",
                 "nombre":"salida inframundo"
            },
            {
                "tiempo":"00:05",
                "duracion":2000,
+               "camara":"Camara1",
+               "target":"Target1",
+               "nombre":"salida inframundo"
+          },
+           {
+               "tiempo":"00:09",
+               "duracion":2000,
                "camara":"Camara2",
                "target":"Target2",
                "nombre":"vista dos"
           },
           {
-               "tiempo":"00:15",
+               "tiempo":"00:27",
                "duracion":2000,
                "camara":"Camara3",
                "target":"Target3",
                "nombre":"vista tres"
           },
           {
-               "tiempo":"00:28",
+               "tiempo":"00:46",
                "duracion":2000,
                "camara":"Camara4",
                "target":"Target4",
                "nombre":"vista cuatro"
           },
           {
-               "tiempo":"00:35",
+               "tiempo":"00:56",
                "duracion":2000,
                "camara":"Camara5",
                "target":"Target5",
                "nombre":"vista cinco"
           },
           {
-               "tiempo":"00:46",
+               "tiempo":"00:74",
+               "duracion":2000,
+               "camara":"Camara6",
+               "target":"Target52",
+               "nombre":"giro inicio"
+          },
+          {
+               "tiempo":"00:77",
                "duracion":2000,
                "camara":"Camara6",
                "target":"Target6",
                "nombre":"euridice humo"
           },
           {
-               "tiempo":"00:53",
+               "tiempo":"00:86",
                "duracion":2000,
                "camara":"Camara7",
                "target":"Target7",
+               "nombre":"euridice humo2"
+          },
+          {
+               "tiempo":"01:32",
+               "duracion":2000,
+               "camara":"Camara8",
+               "target":"Target8",
+               "nombre":"euridice humo2"
+          },
+          {
+               "tiempo":"01:51",
+               "duracion":2000,
+               "camara":"Camara9",
+               "target":"Target9",
                "nombre":"euridice humo2"
           }
       ]
