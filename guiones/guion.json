@@ -1,4 +1,4 @@
-{   "audio":"audios/audio.mp3",
+{   "audio":"audios/Grabacion.m4a",
     "modelo":"modelos/orfeo.glb",
     "fondo":"rgb(0,0,0)",
     "data" :
@@ -6,8 +6,8 @@
            {
                 "tiempo":"00:00",
                 "duracion":2000,
-                "camara":[2.95,7.81,2.17],
-                "target":[1.32,2.69,1.48],
+                "camara":"Camara1",
+                "target":"Target1",
                 "nombre":"salida inframundo"
            },
            {
